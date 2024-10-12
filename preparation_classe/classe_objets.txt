@@ -1,0 +1,22 @@
+Production : 
+puisMaxRac 
+puisMaxInstallee 
+
+Stockage :
+puisMaxRacCharge 
+puisMaxCharge 
+puismaxinstalleedischarge
+énergieStockable
+
+filière : 
+hydrauliques X
+bioénergie X
+solaire X
+thermique non renouvelable X
+autres X
+nucléaires X
+stockage non hydraulique X
+Géothermie X
+énergies maritimes X
+
+technologie, combustible, combustiblessecondaires en majuscules sans accent

@@ -1,0 +1,4 @@
+nominstallation,codeeicresourceobject,codeiris,commune,epci,departement,region,dateraccordement,datemiseenservice,datedebutversion,postesource,tensionraccordement,moderaccordement,combustible,combustiblessecondaires,technologie,typestockage,puismaxinstallee,puismaxrac,nbgroupes,regime,gestionnaire
+Confidentiel,17W0000004739118,674740000,Soultz-sous-Forêts,CC de l'Outre-Forêt,Bas-Rhin,Grand Est,11/08/2016,01/09/2016,28/09/2022,BATZE,HTA,Indirect,,,PHOTOVOLTAIQUE,,1850.0,1850.0,,En service,Strasbourg Électricité Réseaux
+Confidentiel,17W000000039831S,971060101,Bouillante,CA Grand Sud Caraïbe,Guadeloupe,Guadeloupe,01/01/1995,01/01/1995,14/04/2022,,63 kV,Direct,,,,,3500.0,,,En service,EDF-SEI
+Confidentiel,17W000000033530Z,971060101,Bouillante,CA Grand Sud Caraïbe,Guadeloupe,Guadeloupe,01/01/2004,01/01/2004,14/04/2022,,63 kV,Direct,,,,,11000.0,,,En service,EDF-SEI

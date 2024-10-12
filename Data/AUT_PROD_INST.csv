@@ -1,0 +1,44 @@
+nominstallation,codeeicresourceobject,codeiris,commune,epci,departement,region,dateraccordement,datemiseenservice,datedebutversion,postesource,tensionraccordement,moderaccordement,combustible,combustiblessecondaires,technologie,typestockage,puismaxinstallee,puismaxrac,nbgroupes,regime,gestionnaire
+Confidentiel,17W000000955814A,41120110,Manosque,CA Durance-Lubéron-Verdon Agglomération,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,30/10/2019,30/10/2019,09/11/2021,SSTUL,HTA,Direct,,,,,100.0,,,En service,Enedis
+1485 AOS JUIL,17W0000004923199,50610117,Gap,CA Gap-Tallard-Durance,Hautes-Alpes,Provence-Alpes-Côte d'Azur,29/08/2018,29/08/2018,29/08/2018,GRISO,BT,Direct,,,,,130.0,,,En service,Enedis
+ALCATEL SPACE INDUSTRIES,17W000000162646X,60290124,Cannes,CA Cannes Pays de Lérins,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,20/01/1998,20/01/1998,30/11/2021,BOCCA,HTA,Direct,,,,,1561.0,1561.0,,En service,Enedis
+Confidentiel,17W000000090646W,,Cannes,CA Cannes Pays de Lérins,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,26/01/2016,26/01/2016,05/10/2021,MOUGI,HTA,Direct,,,,,1487.0,,,En service,Enedis
+C1770 CADAM,17W000000970213C,60883102,Nice,Métropole Nice Côte d'Azur,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,02/06/2020,02/06/2020,02/06/2020,D.FRA,HTA,Direct,,,,,230.0,,,En service,Enedis
+Confidentiel,17W000000971074W,110690702,Carcassonne,CA Carcassonne Agglo,Aude,Occitanie,16/06/2020,16/06/2020,23/07/2020,MOREA,HTA,Direct,,,,,3750.0,,,En service,Enedis
+1516 AOS JUIL16,17W000000504262C,130970102,Saint-Martin-de-Crau,CA d'Arles-Crau-Camargue-Montagnette,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,17/01/2019,17/01/2019,04/10/2022,M.GOU,HTA,Direct,,,,,230.0,,,En service,Enedis
+1517 AOS JUIL16,17W000000928988H,130970102,Saint-Martin-de-Crau,CA d'Arles-Crau-Camargue-Montagnette,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,10/07/2019,10/07/2019,04/10/2022,M.GOU,HTA,Direct,,,,,180.0,,,En service,Enedis
+AHLSTROM SPECIALTIES,17W000000379514W,163500000,Saint-Séverin,CC Lavalette Tude Dronne,Charente,Nouvelle-Aquitaine,09/02/2017,09/02/2017,01/05/2021,BERTR,HTA,Direct,,,,,8800.0,,,En service,Enedis
+ENZO,17W000000494178S,341450103,Lunel,CC du Pays de Lunel,Hérault,Occitanie,12/10/2018,12/10/2018,28/09/2022,L.VIE,HTA,Direct,,,,,130.0,,,En service,Enedis
+Confidentiel,17W0000009304659,343360000,Villeneuve-lès-Béziers,CA de Béziers-Méditerranée,Hérault,Occitanie,11/07/2019,11/07/2019,12/01/2022,BEZ.E,HTA,Direct,,,,,462.0,,,En service,Enedis
+Confidentiel,17W000001351639J,360440801,Châteauroux,CA Châteauroux Métropole,Indre,Centre-Val de Loire,29/11/2021,29/11/2021,28/11/2022,MOUS5,BT,Direct,,,,,60.0,59.3,,En service,Enedis
+Greenovaley,17W0000009607023,381850102,Grenoble,Grenoble-Alpes-Métropole,Isère,Auvergne-Rhône-Alpes,23/05/2019,23/05/2019,14/04/2022,,HTA,Direct,,,,,795.0,795.0,,En service,GreenAlp
+Suez RV ENERGIE Amilly,17W000001481247B,,Amilly,CA Montargoise et Rives du Loing (AME),Loiret,Centre-Val de Loire,07/04/2022,07/04/2022,07/04/2022,AMILL,HTA,Direct,,,,,249.0,,,En service,Enedis
+Confidentiel,17W000000066762I,516490303,Vitry-le-François,"CC de Vitry, Champagne et Der",Marne,Grand Est,23/11/2016,23/11/2016,05/10/2022,MAROL,HTA,Direct,,,,,4997.0,,,En service,Enedis
+Confidentiel,17W000000916575L,591700102,Dechy,CA Douaisis Agglo,Nord,Hauts-de-France,01/05/2018,01/05/2018,14/12/2022,CLOCH,HTA,Direct,,,,,2000.0,2000.0,,En service,Enedis
+Confidentiel,17W000000490887J,594470104,Onnaing,CA Valenciennes Métropole,Nord,Hauts-de-France,24/10/2018,24/10/2018,14/12/2022,QUARO,HTA,Direct,,,,,4252.0,4252.0,,En service,Enedis
+COGENERATION SINIAT USINE D AUNEUIL,17W000000498305R,600290000,Auneuil,CA du Beauvaisis,Oise,Hauts-de-France,26/11/2018,26/11/2018,14/12/2022,BXVAI,HTA,Direct,,,,,3309.0,,,En service,Enedis
+COGENERATION SINIAT USINE D AUNEUIL,17W0000004975834,600290000,Auneuil,CA du Beauvaisis,Oise,Hauts-de-France,26/11/2018,26/11/2018,14/12/2022,BXVAI,HTA,Indirect,,,,,3309.0,3309.0,,En service,Enedis
+Confidentiel,17W000001429296V,,Olliergues,CC Ambert Livradois Forez,Puy-de-Dôme,Auvergne-Rhône-Alpes,08/09/2022,08/09/2022,08/09/2022,OLLIE,HTA,Indirect,,,,,598.0,598.0,,En service,Enedis
+AU010 AUCHAN DARDILLY,17W0000003897732,690720105,Dardilly,Métropole de Lyon,Rhône,Auvergne-Rhône-Alpes,09/05/2017,09/05/2017,29/12/2022,DARDI,HTA,Direct,,,,,907.0,,,En service,Enedis
+IFPEN SOLAIZE,17W000000423104U,692960000,Solaize,Métropole de Lyon,Rhône,Auvergne-Rhône-Alpes,01/12/2016,01/12/2016,29/12/2022,B.ETO,HTA,Direct,,,,,2679.0,,,En service,Enedis
+Confidentiel,17W000001481029L,,Lyon 7e Arrondissement,,Rhône,Auvergne-Rhône-Alpes,23/01/2019,23/01/2019,23/01/2019,MOUCH,HTA,Direct,,,,,400.0,,,En service,Enedis
+Confidentiel,17W000000934821U,783580108,Maisons-Laffitte,CA Saint Germain Boucles de Seine,Yvelines,Île-de-France,23/09/2019,23/09/2019,19/11/2021,CORME,HTA,Direct,,,,,230.0,230.0,,En service,Enedis
+Confidentiel,17W000000961840N,786460506,Versailles,CA Versailles Grand Parc (CAVGP),Yvelines,Île-de-France,24/03/2020,24/03/2020,23/05/2022,VERSA,HTA,Direct,,,,,230.0,,,En service,Enedis
+MES LA COUTURELLE BIACHES,17W000000920362P,801020000,Biaches,CC de la Haute Somme (Combles - Péronne - Roisel),Somme,Hauts-de-France,01/12/2016,01/02/2017,28/07/2022,MOHET,HTA,Direct,,,AUTRE,,10250.0,10250.0,,En service,Gazelec de Péronne
+Confidentiel,17W000000922898B,806200000,Péronne,CC de la Haute Somme (Combles - Péronne - Roisel),Somme,Hauts-de-France,26/03/2014,26/03/2014,28/07/2022,,BT,Direct,,,AUTRE,,68.0,68.0,,En service,Gazelec de Péronne
+Confidentiel,17W000000921317P,806200000,Péronne,CC de la Haute Somme (Combles - Péronne - Roisel),Somme,Hauts-de-France,26/03/2014,26/03/2014,28/07/2022,,BT,Direct,,,AUTRE,,62.0,62.0,,En service,Gazelec de Péronne
+Confidentiel,17W000000919979J,806200000,Péronne,CC de la Haute Somme (Combles - Péronne - Roisel),Somme,Hauts-de-France,15/06/1905,15/06/1905,28/07/2022,,HTA,Direct,GAZ,,AUTRE,,5000.0,4500.0,,En service,Gazelec de Péronne
+Confidentiel,17W0000009208188,806200000,Péronne,CC de la Haute Somme (Combles - Péronne - Roisel),Somme,Hauts-de-France,17/05/2016,17/05/2016,28/07/2022,,BT,Direct,,,AUTRE,,42.0,42.0,,En service,Gazelec de Péronne
+Confidentiel,17W000000463171S,830620104,La Garde,Métropole Toulon-Provence-Méditerranée,Var,Provence-Alpes-Côte d'Azur,22/05/2018,22/05/2018,14/10/2022,GARD7,HTA,Direct,,,,,660.0,,,En service,Enedis
+Confidentiel,17W000000497255L,831370902,Toulon,Métropole Toulon-Provence-Méditerranée,Var,Provence-Alpes-Côte d'Azur,06/11/2018,06/11/2018,06/12/2022,BRUNE,HTA,Direct,,,,,1948.0,,,En service,Enedis
+COGENERATION SINIAT,17W000000440016U,840310102,Carpentras,CA Ventoux-Comtat-Venaissin (COVE),Vaucluse,Provence-Alpes-Côte d'Azur,23/10/2017,23/10/2017,09/11/2021,TERRA,HTA,Direct,,,,,2679.0,,,En service,Enedis
+Confidentiel,17W000000461389B,840920107,Le Pontet,CA du Grand Avignon (COGA),Vaucluse,Provence-Alpes-Côte d'Azur,13/02/2018,13/02/2018,09/11/2021,COLO6,HTA,Direct,,,,,140.0,,,En service,Enedis
+Confidentiel,17W000000439893F,,Vedène,CA du Grand Avignon (COGA),Vaucluse,Provence-Alpes-Côte d'Azur,29/11/2017,29/11/2017,09/11/2021,AVIGN,HTA,Direct,,,,,2700.0,,,En service,Enedis
+Confidentiel,17W000001468806F,,La Châtaigneraie,CC du Pays de la Châtaigneraie,Vendée,Pays de la Loire,09/06/2021,09/06/2021,09/06/2021,CHAT6,HTA,Direct,,,,,460.0,,,En service,Enedis
+SOLEPROD 6 - ECLIPSE 1 ET 2,17W0000009890055,851410000,Menomblet,CC du Pays de la Châtaigneraie,Vendée,Pays de la Loire,19/11/2019,19/11/2019,01/10/2020,POUZA,HTA,Indirect,,,PHOTOVOLTAIQUE,,950.0,950.0,,En service,Enedis
+Confidentiel,17W000000060012H,881140000,Contrexéville,CC Terre d'Eau,Vosges,Grand Est,31/10/2016,31/10/2016,05/10/2022,VITTE,HTA,Direct,,,,,2586.0,,,En service,Enedis
+Confidentiel,17W000000461254Y,882880000,Maroncourt,CC de Mirecourt Dompaire,Vosges,Grand Est,16/05/2018,16/05/2018,22/06/2022,MIREC,BT,Direct,,,,,195.0,195.0,,En service,Enedis
+Confidentiel,17W0000009107594,885000000,Ventron,CC des Hautes Vosges,Vosges,Grand Est,01/02/2019,01/02/2019,01/06/2022,CORN6,HTA,Direct,,,,,131.0,,,En service,Enedis
+Confidentiel,17W000001337976K,971170101,Le Moule,CA du Nord Grande Terre,Guadeloupe,Guadeloupe,01/01/1998,01/01/1998,29/07/2022,,HTA,Direct,,,,,28800.0,,,En service,EDF-SEI
+Confidentiel,17W0000000364574,971170101,Le Moule,CA du Nord Grande Terre,Guadeloupe,Guadeloupe,01/01/1998,01/01/1998,29/07/2022,,63 kV,Direct,,,,,28200.0,,,En service,EDF-SEI
+Confidentiel,17W000001331238C,974140101,Saint-Louis,CA CIVIS (Communauté Intercommunale des Villes Solidaires),La Réunion,La Réunion,01/01/1996,01/01/1996,29/07/2022,,63 kV,Direct,,,,,59000.0,,,En service,EDF-SEI
