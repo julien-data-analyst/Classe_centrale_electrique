@@ -8,6 +8,7 @@
 
 # ---- Importation des librairies -----
 import pandas as pd
+import preparation_classe as ps
 ######################################-
 
 # ---- Lire le fichier de données -----
@@ -526,3 +527,8 @@ installations_bio.drop(labels=["puismaxraccharge", "puismaxcharge", "puismaxinst
 # Pour les autres, les colonnes concernant le stockage sont supprimées
 installations_aut.drop(labels=["puismaxraccharge", "puismaxcharge", "puismaxinstalleedischarge", "energiestockable", "filiere"], axis=1).to_csv("Data/AUT_PROD_INST.csv", index=False)
 ######################################################################################-
+
+# Test avec la nouvelle classe
+#test_install_nuc = installations_nuc.iloc[1]
+#print(test_install_nuc.index)
+#obj_install_nuc = ps.Production()

@@ -115,6 +115,30 @@ class Installation_Electrique :
 
         self.prod_stock = type_prod_stock
 
+    def localisation_centrale(self):
+        '''
+        Récupère la localisation de la centrale en instance.
+        Argument :
+        - self : l'instance en question
+        '''
+        return self.localisation
+    
+    def dates_centrales(self):
+        '''
+        Récupère la localisation de la centrale en instance.
+        Argument :
+        - self : l'instance en question
+        '''
+        return (self.date_deb_ver, self.date_mis_serv)
+    
+    # Utilisation de print sur un objet
+    def __str__(self):
+        return f"""L'installation {self.nom} : \n 
+                   - localisation : {self.localisation["region"]} \n
+                   - filière : {self.technologie["filiere"]} \n 
+                   - date de mise en service : {self.date_mis_serv} \n
+                   - type : {self.prod_stock}"""
+    
 # Création de la classe fille concernant les installations de productions d'électricité
 class Production(Installation_Electrique) :
 
